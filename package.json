@@ -1,0 +1,15 @@
+{
+  "name": "com.outermaze.unity.semperland.deeplinks",
+  "version": "0.0.1",
+  "displayName": "Outer Maze - Unity - SemperLand - DeepLinks",
+  "description": "Utilities to process SemperLand-specific deep links.",
+  "unity": "2023.1",
+  "dependencies": {
+    "com.alephvault.unity.evmgames.deeplinks": "0.0.1"
+  },
+  "author": {
+    "name": "Outer Maze",
+    "email": "info@outermaze.com",
+    "url": "http://www.outermaze.com"
+  }
+}
