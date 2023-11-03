@@ -1,0 +1,18 @@
+{
+    "name": "OuterMaze.SemperLand.DeepLinks.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9fb1e86edc1bf4f46bfc867526bca155",
+        "GUID:00fdfe2a387be0439854393abe37bd59",
+        "GUID:166b2eb434cf2e691a93a559dccf0f94"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

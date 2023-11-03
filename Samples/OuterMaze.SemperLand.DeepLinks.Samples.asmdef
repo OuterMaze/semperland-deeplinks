@@ -1,0 +1,18 @@
+{
+    "name": "OuterMaze.SemperLand.DeepLinks.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:00fdfe2a387be0439854393abe37bd59",
+        "GUID:166b2eb434cf2e691a93a559dccf0f94",
+        "GUID:087894e8617a5af73bf2d03cf6d8f342"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
