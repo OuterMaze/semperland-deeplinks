@@ -1,7 +1,7 @@
 using System;
 using System.Numerics;
 
-namespace OuterMaze.SemperLand.Intents
+namespace OuterMaze.Unity.SemperLand.Intents
 {
     namespace Types 
     {

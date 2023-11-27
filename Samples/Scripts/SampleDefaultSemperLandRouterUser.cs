@@ -1,12 +1,12 @@
 using System;
-using OuterMaze.SemperLand.Intents.Types.Routing;
 using UnityEngine;
 
-namespace OuterMaze.SemperLand.Intents
+namespace OuterMaze.Unity.SemperLand.Intents
 {
     namespace Samples
     {
         using AlephVault.Unity.DeepLinks.Types;
+        using Types.Routing;
         
         public class SampleDefaultSemperLandRouterUser : MonoBehaviour
         {

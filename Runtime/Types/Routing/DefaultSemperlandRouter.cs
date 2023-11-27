@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 using Nethereum.Hex.HexConvertors.Extensions;
 using AlephVault.Unity.EVMGames.DeepLinks.Types.Routing;
 
-namespace OuterMaze.SemperLand.Intents
+namespace OuterMaze.Unity.SemperLand.Intents
 {
     namespace Types
     {
